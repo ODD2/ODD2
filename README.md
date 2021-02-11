@@ -1,4 +1,4 @@
-[![ODD2's github stats](https://github-readme-stats.vercel.app/api?username=ODD2&hide=stars,prs,issues&count_private=true&show_icons=true&theme=dark)](https://https://github.com/anuraghazra/github-readme-stats)
+[![ODD2's github stats](https://github-readme-stats.vercel.app/api?username=ODD2&hide=stars,prs,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ODD2/ODD2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
